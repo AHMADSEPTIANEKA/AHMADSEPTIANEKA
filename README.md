@@ -7,8 +7,12 @@ Welcome to my GitHub profile! I'm passionate about building amazing web and mobi
 ## 🚀 Featured Projectsgi
 
 ### 🔥 Project Showcase
-[![Project Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F0eGJ4d2RlY2V1b2J0dXZ4Z2V6bmN6eGJ5bHl5eGZqN2Z4eGJ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/your-gif-id/giphy.gif)](your-project-url)
-*(Click the GIF to visit the project)*
+<div align="center">
+  <a href="your-project-url">
+    <img src="https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif" width="600" style="border-radius: 15px; animation: glow 2s infinite alternate; box-shadow: 0 0 20px rgba(100, 255, 218, 0.6);">
+  </a>
+  <p style="font-family: 'Segoe UI'; font-size: 16px; color: #FFA500; text-shadow: 0 0 8px rgba(255,165,0,0.7);">🚀 LIVE DEMO - Click to explore!</p>
+</div>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AHMADSEPTIANEKA&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
