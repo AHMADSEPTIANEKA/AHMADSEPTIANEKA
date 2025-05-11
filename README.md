@@ -1,18 +1,24 @@
-# 👋 Hello, I'm Ahmad Septian Eka!
-
-### 💻 Full Stack Developer | Open Source Enthusiast | Tech Lover
-
-Welcome to my GitHub profile! I'm passionate about building amazing web and mobile applications using modern technologies.
-
-## 🚀 Featured Projectsgi
-
-### 🔥 Project Showcase
 <div align="center">
-  <a href="your-project-url">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx2eXI0em1hdGh2MjVwdHJvYW1zdWdrdGt2dW5idWdwbDN1MDgzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" style="border-radius: 15px; animation: glow 2s infinite alternate; box-shadow: 0 0 20px rgba(100, 255, 218, 0.6);">
+  
+  <!-- Animated Header with Gradient Text -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=64FFDA&background=0D111700&center=true&vCenter=true&width=500&height=80&lines=HELLO%20I'M%20EKA;FULL-STACK%20DEVELOPER;TECH%20ENTHUSIAST" alt="Typing Animation" />
   </a>
-  <p style="font-family: 'Segoe UI'; font-size: 16px; color: #FFA500; text-shadow: 0 0 8px rgba(255,165,0,0.7);">🚀 LIVE DEMO - Click to explore!</p>
+  <a href="your-portfolio-link">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExang3djgwYTU4MmN6azg1ZXNtNDU1NXk0aGlsOTBteDZzbjR1aWdpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Header"/>
+  </a>
 </div>
+  <p style="color: #CCD6F6; font-size: 18px;">
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> 
+    Pemula di Dunia Coding 
+    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30">
+  </p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AHMADSEPTIANEKA&color=64FFDA)
+</div>
+
+"Perjalanan ribuan baris kode dimulai dari 'Hello World' pertama"  
+
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AHMADSEPTIANEKA&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
@@ -22,27 +28,6 @@ Welcome to my GitHub profile! I'm passionate about building amazing web and mobi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMADSEPTIANEKA&layout=compact&theme=radical&langs_count=6)
 
-## 🎧 Coding Playlist
-[![Spotify](https://spotify-readme-xi.vercel.app/api/spotify)](https://open.spotify.com/playlist/your-playlist-id)
-
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [10 Tips for Clean Code in JavaScript](your-blog-url)
-- [Why I Switched from REST to GraphQL](your-blog-url)
-- [Building a Scalable Microservice Architecture](your-blog-url)
-<!-- BLOG-POST-LIST:END -->
-
-## 🔧 Technologies & Tools
-(Keep your existing tech stack badges here)
-
-## 🌱 I'm currently learning
-(Keep your existing learning section)
-
-## 📫 How to reach me
-(Keep your existing contact section)
-
-## ⚡ Fun Fact
-(Keep your existing fun fact)
 
 ---
 
