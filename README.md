@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building amazing web and mobi
 ### 🔥 Project Showcase
 <div align="center">
   <a href="your-project-url">
-    <img src="https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif" width="600" style="border-radius: 15px; animation: glow 2s infinite alternate; box-shadow: 0 0 20px rgba(100, 255, 218, 0.6);">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx2eXI0em1hdGh2MjVwdHJvYW1zdWdrdGt2dW5idWdwbDN1MDgzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" style="border-radius: 15px; animation: glow 2s infinite alternate; box-shadow: 0 0 20px rgba(100, 255, 218, 0.6);">
   </a>
   <p style="font-family: 'Segoe UI'; font-size: 16px; color: #FFA500; text-shadow: 0 0 8px rgba(255,165,0,0.7);">🚀 LIVE DEMO - Click to explore!</p>
 </div>
