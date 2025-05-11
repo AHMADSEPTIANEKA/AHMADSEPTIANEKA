@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about building amazing web and mobile applications using modern technologies.
 
-## 🚀 Featured Projects
+## 🚀 Featured Projectsgi
 
 ### 🔥 Project Showcase
 [![Project Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F0eGJ4d2RlY2V1b2J0dXZ4Z2V6bmN6eGJ5bHl5eGZqN2Z4eGJ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/your-gif-id/giphy.gif)](your-project-url)
